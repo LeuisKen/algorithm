@@ -1,0 +1,2 @@
+# algorithm
+Practice algorithm everyday
